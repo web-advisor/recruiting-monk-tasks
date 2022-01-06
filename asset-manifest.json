@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/recruiting-monk-tasks/static/css/main.073c9b0a.css",
+    "main.js": "/recruiting-monk-tasks/static/js/main.d0f8ad12.js",
+    "static/js/787.62224d34.chunk.js": "/recruiting-monk-tasks/static/js/787.62224d34.chunk.js",
+    "static/media/logo.svg": "/recruiting-monk-tasks/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/recruiting-monk-tasks/index.html",
+    "main.073c9b0a.css.map": "/recruiting-monk-tasks/static/css/main.073c9b0a.css.map",
+    "main.d0f8ad12.js.map": "/recruiting-monk-tasks/static/js/main.d0f8ad12.js.map",
+    "787.62224d34.chunk.js.map": "/recruiting-monk-tasks/static/js/787.62224d34.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.d0f8ad12.js"
+  ]
+}
