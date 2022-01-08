@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/recruiting-monk-tasks/static/css/main.55566985.css",
-    "main.js": "/recruiting-monk-tasks/static/js/main.d358182d.js",
+    "main.js": "/recruiting-monk-tasks/static/js/main.bdc0033e.js",
     "index.html": "/recruiting-monk-tasks/index.html",
     "main.55566985.css.map": "/recruiting-monk-tasks/static/css/main.55566985.css.map",
-    "main.d358182d.js.map": "/recruiting-monk-tasks/static/js/main.d358182d.js.map"
+    "main.bdc0033e.js.map": "/recruiting-monk-tasks/static/js/main.bdc0033e.js.map"
   },
   "entrypoints": [
     "static/css/main.55566985.css",
-    "static/js/main.d358182d.js"
+    "static/js/main.bdc0033e.js"
   ]
 }
